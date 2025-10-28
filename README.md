@@ -9,4 +9,4 @@ This project analyzes food insecurity in Albania (2017) using FAO microdata. The
 - Model diagnostic
 - Prevalence rates
 
-The complete analysis, including all results and findings, is available in the RaschModelAlbania.pdf report. The full dataset used for this study is also included is "Albania_WP.RData.
+The complete analysis, including all results and findings, is available in the RaschModelAlbania.pdf report. The full dataset used for this study is also included is Albania_WP.RData.
